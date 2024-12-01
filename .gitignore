@@ -1,0 +1,9 @@
+.Module.*
+Module.*
+.modules.*
+modules.*
+.mouse.*
+mouse.mod.*
+mouse.o
+mouse.mod
+.vscode/
